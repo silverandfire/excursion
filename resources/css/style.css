@@ -1,0 +1,15 @@
+h1 {
+    font-family: Verdana;
+    font-weight: Normal;
+    font-size: 50px;
+    color: White;
+    text-align: Center;
+}
+body {
+    background-color: Black;
+}
+.nav-link {
+    color: aquamarine;
+    font-size: 16px;
+    text-align: Center;
+}
